@@ -20,8 +20,8 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <br>- 📚 Learning English
   <br>- ✨ In my spare time I practice magic and watch anime</p>
   
-## 💻 Programming languages:
-<div align="left"><br>
+## <p height="30">💻 Programming languages:</p>
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
