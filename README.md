@@ -14,7 +14,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img align="right" width="350" src="https://media.giphy.com/media/112CeAWuyhQX1C/giphy.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=I'm+christopher;Software+engineering+student;Open+source+magician;Web+developer" />
-<p align="left">When I'm not coding, I dive into exciting animated adventures and meld creativity and logic to create innovative and functional web solutions.
+<p align="left">When I'm coding, I dive into exciting animated adventures and meld creativity and logic to create innovative and functional web solutions.
   <br>
   <br>- 💻 Passionate about Technological Innovation
   <br>- 📚 Learning English
