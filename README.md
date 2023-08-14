@@ -21,7 +21,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <br>- ✨ In my spare time I practice magic and watch anime</p>
   
 ## 💻 Programming languages:
-<div align="left">
+<div align="left"><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -30,5 +30,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="VueJs" alt="Java" width="Java" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="Java" height="40"/>
-</div>
+</div><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChristopherDev0&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
 
