@@ -13,7 +13,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <img align="right" width="350" src="https://media.giphy.com/media/112CeAWuyhQX1C/giphy.gif" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=I'm+christopher;Software+engineering+student;Open+source+magician;Web+developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=I'm+Christoper+Pati%C3%B1o;Full+stack+developer;Backend+developer;Frontend+developer" />
 <p align="left">When I'm coding, I dive into exciting animated adventures and meld creativity and logic to create innovative and functional web solutions.
   <br>
   <br>- 💻 Passionate about Technological Innovation
