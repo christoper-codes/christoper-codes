@@ -18,7 +18,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <br>
   <br>- 💻 Passionate about Technological Innovation
   <br>- 📚 Learning English
-  <br>- ✨ In my spare time I practice magic and watch anime</p>
+  <br>- ✨ In my spare time I practice magic</p>
   
 ## <p height="30">💻 Programming languages:</p>
 <div align="left">
