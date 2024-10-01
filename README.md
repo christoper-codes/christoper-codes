@@ -11,7 +11,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ```
 # 💫 About Me:
 
-<img align="right" width="350" src="https://media.giphy.com/media/112CeAWuyhQX1C/giphy.gif" />
+<img align="right" width="350" src="https://media.giphy.com/media/TfelnmQ8VU3K/giphy.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=I'm+Christoper+Pati%C3%B1o;Full+stack+developer;Backend+developer;Frontend+developer" />
 <p align="left">When I'm coding, I dive into exciting animated adventures and meld creativity and logic to create innovative and functional web solutions.
