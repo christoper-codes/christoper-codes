@@ -14,13 +14,13 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img align="right" width="350" src="https://media.giphy.com/media/TfelnmQ8VU3K/giphy.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=I'm+Christoper+Pati%C3%B1o;Full+stack+developer;Backend+developer;Frontend+developer" />
-<p align="left">When I'm coding, I dive into exciting animated adventures and meld creativity and logic to create innovative and functional web solutions.
+<p align="left">I am a full-stack software engineer with experience in developing web and mobile applications. I am passionate about creating efficient and scalable solutions using new technologies.
   <br>
   <br>- 💻 Passionate about Technological Innovation
   <br>- 📚 Learning English
-  <br>- ✨ In my spare time I practice magic</p>
+  <br>- ✨ In my spare time I practice data science.</p>
   
-## <p height="30">💻 Programming languages:</p>
+## <p height="30">💻 Programming skills and languages:</p>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>
@@ -38,6 +38,12 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="Livewire" alt="Livewire" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digitalocean" alt="Digitalocean" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" alt="Netlify" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" title="Powershell" alt="Powershell" width="35" height="35"/>
 </div><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChristopherDevv&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
