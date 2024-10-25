@@ -11,7 +11,8 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ```
 # 💫 About Me:
 
-<img align="right" width="350" src="https://media.giphy.com/media/TfelnmQ8VU3K/giphy.gif" />
+<img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrY3F2c3Y1aWVobjg0ajV0ajljM2ZtMHRubDUwNmNxY24zd2FuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=I'm+Christoper+Pati%C3%B1o;Full+stack+developer;Backend+developer;Frontend+developer" />
 <p align="left">I am a full-stack software engineer with experience in developing web and mobile applications. I am passionate about creating efficient and scalable solutions using new technologies.
@@ -38,6 +39,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="Livewire" alt="Livewire" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>
+  <br>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digitalocean" alt="Digitalocean" width="35" height="35"/>
