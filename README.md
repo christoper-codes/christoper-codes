@@ -19,7 +19,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <br>
   <br>- 💻 Passionate about Technological Innovation
   <br>- 📚 Learning English
-  <br>- ✨ In my spare time I practice data science.</p>
+  <br>- 🧮 In my spare time I practice data science.</p>
   
 ## <p height="30">💻 Programming skills and languages:</p>
 <div align="left">
