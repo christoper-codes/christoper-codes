@@ -18,7 +18,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <p align="left">I am a full-stack software engineer with experience in developing web and mobile applications. I am passionate about creating efficient and scalable solutions using new technologies.
   <br>
   <br>- 💻 Passionate about Technological Innovation
-  <br>- 📚 Learning English
+  <br>- 📚 Learning English 
   <br>- 🧮 In my spare time I practice data science.</p>
   
 ## <p height="30">💻 Programming skills and languages: </p>
