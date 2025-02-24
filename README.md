@@ -17,7 +17,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=I'm+Christoper+Pati%C3%B1o;Full+stack+developer;Backend+developer;Frontend+developer" />
 <p align="left">I am a full-stack software engineer with experience in developing web and mobile applications. I am passionate about creating efficient and scalable solutions using new technologies.
   <br>
-  <br>- 💻 Passionate about Technological Innovation 
+  <br>- 💻 Passionate about Technological Innovation
   <br>- 📚 Learning English
   <br>- 🧮 In my spare time I practice data science.</p>
   
