@@ -7,6 +7,7 @@
  </div>
  
 <p align="center"> </p>
+<p align="center"> </p>
 <p align="center">I am a software engineer passionate about data science. </p>
 
 <div align="center">
