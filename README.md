@@ -5,7 +5,8 @@
  <div align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
  </div>
-  
+ 
+<p align="center"> </p>
 <p align="center">I am a software engineer passionate about data science. </p>
 
 <div align="center">
