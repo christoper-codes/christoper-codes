@@ -4,8 +4,5 @@
 
 <div align="center">
   <p align="center">I am a software engineer passionate about data science. <a href="https://whyphp.dev/" target="_blank">Why PHP in 2026</a></p>
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="35" height="35" />
- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,py" />
 </div>
