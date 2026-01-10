@@ -3,6 +3,6 @@
 </div>
 
 <div align="center">
-  <p align="center">I am a software engineer passionate about data science. <a href="https://whyphp.dev/" target="_blank">Why PHP in 2026</a></p>
+  <p align="center">I am a software engineer passionate about data science. <a href="https://whyphp.dev/" target="_blank" rel="noopener noreferrer">Why PHP in 2026</a></p>
   <img src="https://skillicons.dev/icons?i=py,laravel,vue" />
 </div>
