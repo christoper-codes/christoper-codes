@@ -9,8 +9,6 @@
  </p>
  <img src="https://skillicons.dev/icons?i=py,laravel,vue" />
  <p align="center">
-  <sub>
     C++, C#, Java, PHP, Python, JavaScript • SQL • Laravel, Livewire, ASP.NET, Vue.js, AngularJS, Tailwind
-  </sub>
  </p>
 </div>
