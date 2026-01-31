@@ -8,7 +8,7 @@
    <a href="https://whyphp.dev/" target="_blank" rel="noopener noreferrer">Why PHP in 2026</a>
  </p>
  <p align="center">
-    C++, C#, Java, PHP, Python, JavaScript • SQL • Laravel, Livewire, ASP.NET, Vue.js, Tailwind
+    C++, C#, Java, PHP, Python, JavaScript • SQL • Laravel, Livewire, Django, ASP.NET, Vue.js, Tailwind
  </p>
  <img src="https://skillicons.dev/icons?i=py,laravel,vue" />
 </div>
