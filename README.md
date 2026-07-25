@@ -1,14 +1,10 @@
-<div align="center" with="100%">
- <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=40&duration=4000&pause=1000&color=B3B3B3&center=true&vCenter=true&width=500&height=70&lines=Hi+there!;It's+Christoper;A+software+engineer" alt="chris"/>
-</div>
-
-<div align="center">
- <p align="center">
-   I am a software engineer passionate about data science. 
-   <a href="https://whyphp.dev/" target="_blank" rel="noopener noreferrer">Why PHP in 2026</a>
- </p>
- <p align="center">
-    C++, C#, Java, PHP, Python, JavaScript • SQL • Laravel, Livewire, Django, ASP.NET, Vue.js, Tailwind
- </p>
- <img src="https://skillicons.dev/icons?i=py,laravel,vue" />
-</div>
+<pre>
+<span> ██████╗╗ </span>   <span >christoper.patiho@gmail.com</span>
+<span >██╔════╝╝ </span>   <span >----------------------------------------</span>
+<span>██║       </span>   <span >Software Engineer</span>
+<span >██║       </span>   <span >5+ Years Building SaaS & ERP Systems</span>
+<span >██║       </span>   <span >Stack:</span> <span style="color: white;">VILT • TALL • PyData</span>
+<span >██║       </span>   <span >Focus:</span> <span style="color: white;">Architecture • Data Science</span>
+<span >╚██████╗╗  </span>  <span >Current:</span> <span>@webplo • @krodox • @sigrip</span>
+<span > ╚═════╝╝  </span>
+</pre>
