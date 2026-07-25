@@ -1,5 +1,5 @@
 <pre>
-<span> ██████╗╗ </span>   <span >christoper.patiho@gmail.com</span>
+<span> ██████╗╗ </span>   <span >✟ christoper.patiho@gmail.com</span>
 <span >██╔════╝╝ </span>   <span >----------------------------------------</span>
 <span>██║       </span>   <span >Software Engineer</span>
 <span >██║       </span>   <span >5+ Years Building SaaS & ERP Systems</span>
